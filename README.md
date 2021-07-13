@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about CSS & React
 - 📫 How to reach me: cam.mac.wright@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Always looking to crew or find crew for sailing regattas.
 
