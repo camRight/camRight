@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a react project for a pickleball group.
+- 🔭 I’m currently working on my independent consulting business.
 - 🌱 I’m currently learning more concise Javascript.
 - 👯 I’m looking to collaborate on ... React and mySQL Javascript-stack projects.
 - 🤔 I’m looking for help with ...
